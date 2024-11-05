@@ -1,0 +1,2 @@
+arm_controller:robot_description
+-DCATKIN_DEVEL_PREFIX=/home/yukakeren/magang6/devel -DCMAKE_INSTALL_PREFIX=/home/yukakeren/magang6/install -G Unix Makefiles
